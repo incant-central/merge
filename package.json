@@ -1,6 +1,6 @@
 {
   "name": "@incant/merge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Merge Task for Incant",
   "main": "index.js",
   "scripts": {
